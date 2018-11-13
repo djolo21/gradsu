@@ -556,48 +556,18 @@ z-index: 3;
 
 .gradient{
 height: 200px;
-background: linear-gradient(4deg, rgba(12,10,19,0.8) 0%, rgba(12,10,19,0.45) 25%, rgba(0,0,0,0.1) 45%, transparent 55%);
+font-size: 18px;
+color: #fff;
+text-shadow: 1px 1px black;
 }
 
 .event-venue{
-height: 30px;
-background-color: #bbb;
 color: #fff;
-padding: 5px 20px 5px 20px;
 position: relative;
-top: 10px;
-}
+font-size: 18px;
+text-shadow: 2px black;
 
-.date{
-color: #9d9d9d;
-background-color: #000;
-height: 30px;
-padding: 5px 20px 5px 20px;
-position: absolute;
-top: 1075px;
-left: 490px;
-}
 
-.time{
-color: #fff;
-font-size: 24px;
-margin-left: 20px;
-position: absolute;
-top: 1110px;
-left: 490px;
-text-shadow: 2px 1px 1px rgba(0,0,0,0.9);
-}
-
-.event-name{
-color: #fff;
-font-weight: bold;
-font-size: 24px;
-margin-left: 20px;
-position: absolute;
-top: 1120px;
-left: 490px;
-text-shadow: 2px 1px 1px rgba(0,0,0,0.9);
-line-height: 1.2em;
 }
 
 .e1{
@@ -626,4 +596,570 @@ float: left;
 padding: 0 0 17.5px 17.5px;
 box-sizing: border-box;
 -moz-box-sizing: border-box;
+}
+
+.event3-image{
+background-image: url(prevencija.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+z-index: 3;
+width: 300px;
+height: 200px;
+position: relative;
+}
+
+.e3{
+width: 50%;
+height: 220px;
+float: left;
+padding: 0 0 17.5px 17.5px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+}
+
+.event4-image{
+background-image: url(crni.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+z-index: 3;
+width: 300px;
+height: 200px;
+position: relative;
+}
+
+.e4{
+width: 50%;
+height: 220px;
+float: left;
+padding: 0 0 17.5px 17.5px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+}
+
+.index-dudi{
+width: 34.53%;
+float: left;
+padding: 17.5px;
+}
+
+.background-dudi{
+background: #E3E3E3;
+padding: 5px;
+}
+
+.content-dudi{
+background: #fff;
+margin: 0px auto;
+padding: 10px;
+height: 293px;
+background-color: #fff;
+}
+
+.banner-top{
+width: 970px;
+line-height: 0;
+margin: 0px auto;
+}
+
+.index-gallery{
+width: 970px;
+background-color: #fff;
+margin: 0px auto;
+padding-top: 17.5px;
+}
+
+.event-name{
+padding: 10px 0 10px 17.5px;
+font-size: 18px;
+}
+
+.galleries{
+width: 100%;
+padding-right: 10px;
+}
+
+.e5{
+width: 73%;
+height: 450px;
+padding: 0 0 0 17px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+float: left;
+
+}
+
+.event5-image{
+background-image: url(e5.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+z-index: 3;
+width: 638px;
+height: 450px;
+position: relative;
+}
+
+.e6{
+width: 26%;
+height: 139px !important;
+float: left;
+padding: 0 0 0 17.5px;
+margin-bottom: 17.5px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+
+}
+
+.event6-image{
+background-image: url(e6.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+z-index: 3;
+width: 232px;
+height: 139px !important;
+position: relative;
+}
+
+.e7{
+width: 26%;
+height: 139px !important;
+float: left;
+padding: 0 0 0 17.5px;
+margin-bottom: 17.5px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+
+}
+
+.event7-image{
+background-image: url(e7.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+z-index: 3;
+width: 232px;
+height: 139px !important;
+position: relative;
+}
+
+.e8{
+width: 26%;
+height: 139px !important;
+float: left;
+padding: 0 0 0 17.5px;
+margin-bottom: 17.5px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+
+}
+
+.event8-image{
+background-image: url(e8.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+z-index: 3;
+width: 232px;
+height: 139px !important;
+position: relative;
+}
+
+.index-archive{
+width: 970px;
+height: 505px;
+background-color: #3D4244;
+margin: 0px auto;
+padding-top: 17.5px;
+}
+
+.archive-name{
+padding: 10px 0 10px 17.5px;
+font-style: italic;
+font-size: 18px;
+
+}
+
+.archives{
+width: 65.46%;
+float: left;
+}
+
+.e9{
+width: 50%;
+height: 220px;
+float: left;
+padding: 0 0 17.5px 17.5px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+display: block;
+
+}
+
+.event9-image{
+background-image: url(e9.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+height: 200px;
+position: relative;
+}
+
+.e10{
+width: 50%;
+height: 220px;
+float: left;
+padding: 0 0 17.5px 17.5px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+display: block;
+
+}
+
+.event10-image{
+background-image: url(e10.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+height: 200px;
+position: relative;
+}
+
+.e11{
+width: 50%;
+height: 220px;
+float: left;
+padding: 0 0 17.5px 17.5px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+display: block;
+
+}
+
+.event11-image{
+background-image: url(e11.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+height: 200px;
+position: relative;
+}
+
+.e12{
+width: 50%;
+height: 220px;
+float: left;
+padding: 0 0 17.5px 17.5px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+display: block;
+
+}
+
+.event12-image{
+background-image: url(e12.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+height: 200px;
+position: relative;
+}
+
+.archive-banner{
+width: 34.53%;
+float: left;
+padding: 17.5px 17.5px 17.5px 17.5px;
+}
+
+.index-nekretnine{
+width: 970px;
+background-color: #fff;
+margin: 0px auto;
+padding-top: 17.5px;
+}
+
+.nekretnine1{
+	margin-left: 17.5px;
+}
+
+.krov{
+margin-left: 15px;
+float: left;
+}
+
+.search-nek{
+float: left;
+padding-right: 30px;
+}
+
+.tip{
+width: 230px;
+}
+
+.lokacija{
+width: 160px;
+}
+
+.sobe{
+width: 50px;
+}
+
+.cena{
+width: 150px;	
+}
+
+select{
+height: 28px;
+background-color: #F2EFD3;
+border-color: #c8b697;
+color: #846E4E;
+font-size: 14px;
+}
+
+.lupa{
+	margin-top: 25px;
+}
+
+.nekretnine2{
+	margin-top: 30px;
+}
+
+.oglas{
+position: relative;
+width: 63.8%;
+height: 300px;
+padding-left: 17.5px;
+float: left;
+}
+
+.cena1{
+position: absolute;
+
+text-align: center;
+height: 45px;
+width: 140px;
+font-size: 24px;
+font-family: "Myriad Pro";
+font-weight: bold;
+color: #fff;
+background: #e20000;
+padding-top: 7px;
+z-index: 1;
+}
+
+.slika{
+
+position: absolute;
+top: 0;
+width: 440px;
+height: 280px;
+padding: 10px;
+background-color: #e7e5c6;
+}
+
+.podaci{
+position: absolute;
+top: 0;
+left: 480px;
+height: 100%;
+padding-left: 15px;
+}
+
+.banner{
+float: left;
+margin-left: 17.5px;
+}
+
+.oglas2{
+position: relative;
+float: left;
+width: 30.51%;
+height: 110px;
+margin: 17.5px 0 17.5px 17.5px;
+border: 2px solid #e7e5c6;
+
+}
+
+.slika2{
+width: 45%;
+height: 100%;
+float: left;
+}
+
+.naslov2{
+float: left;
+width: 55%;
+padding: 5px 5px 5px 10px;
+}
+
+.cena2{
+text-align: right;
+color: #e20000;
+font-weight: bold;
+padding-bottom: 10px;
+}
+
+.logo2{
+height: auto;
+max-width: 100%;
+}
+
+.footer-logo{
+float: left;
+width: 35%;
+}
+
+.footer-info{
+float: left;
+width: 65%;
+padding-top: 45px;
+}
+
+.kontakt{
+color: #cbcbcb;
+padding-left: 30px;
+padding-bottom: 5px;
+}
+
+.site-footer{
+background: #000;
+display: block;
+}
+
+.site-info{
+width: 970px;
+margin: 0px auto;
+padding: 17.5px 0 17.5px 0;
+text-align: left;
+}
+
+.site-header{
+background: #2C3031;
+position: fixed;
+width: 100%;
+z-index: 1000 !important;
+}
+
+.header-content{
+width: 970px;
+margin: 0px auto;	
+}
+
+.header-left{
+width: 20%;
+float: left;
+padding-top: 10px;
+}
+
+.logo{
+width: 180px;
+height: auto;
+}
+
+.header-right{
+margin-top: 4px;
+width: 80%;
+float: left;
+}
+
+.site-login{
+text-align: right;
+height: 35px;
+float: right;	
+}
+
+.log{
+background: #477B9C url(log.png) no-repeat 4px 4px;
+text-indent: 15px;
+padding: 1.5px 10px;
+color: #1F455E;
+margin: 0 2px;
+float: right;
+display: block;
+font-size: 14px;
+line-height: 25px;
+}
+
+.reg{
+background: #262829;
+padding: 1.5px 10px;
+color: #477b9c;
+margin: 0 2px;
+float: right;
+display: block;
+font-size: 14px;
+line-height: 25px;	
+}
+
+.tw{
+padding: 3px 4px 0 4px;
+background: #262829;
+margin: 0 2px;
+float: right;
+display: block;
+font-size: 14px;
+line-height: 25px;
+}
+
+.fb{
+padding: 3px 4px 0 4px;
+background: #262829;
+margin: 0 2px;
+float: right;
+display: block;
+font-size: 14px;
+line-height: 25px;
+}
+
+.search-form{
+float: right;
+}
+
+.search-field{
+color: #477b9c;
+width: 175px;
+box-shadow: 2px 2px 3px #212020 inset;
+padding: 5px !important;
+font-size: 14px;
+background: #272727;
+border-color: #2e3337;
+outline: 0;
+}
+
+.search-submit{
+overflow: hidden;
+box-shadow: none;
+text-indent: -999999px;
+margin-right: 10px;
+background: url(lupa.png) no-repeat center center;
+border: 0;
+width: 16px;
+height: 32px;
+}
+
+.main-nav{
+padding: 15px 0px 0px 20px;
+margin: 0px auto;
+}
+
+.menu-glavni-container{
+
+}
+
+.menu{
+list-style: none;
+}
+
+.menu li{
+list-style: none;
+position: relative;
+margin: 0px 0px 0px 15px;
+display: inline-block;
+
+}
+
+.amenu{
+color: #ffffff;
 }
