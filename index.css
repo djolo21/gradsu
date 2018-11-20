@@ -156,7 +156,7 @@ padding: 0;
 }
 
 .image{
-background-image: url(spartak.jpg);
+background-image: url(articles/spartak.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -189,7 +189,7 @@ box-sizing: border-box;
 }
 
 .comments-number{
-	background-image: url(comments-number.png);
+	background-image: url(banners/comments-number.png);
 height: 42px;
 width: 42px;
 position: absolute;
@@ -224,7 +224,7 @@ top: 20px;
 }
 
 .imagea1{
-background-image: url(izbori.jpg);
+background-image: url(articles/izbori.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -233,7 +233,7 @@ position: relative;
 }
 
 .a1comments-number{
-	background-image: url(comments-number.png);
+	background-image: url(banners/comments-number.png);
 height: 42px;
 width: 42px;
 position: absolute;
@@ -279,7 +279,7 @@ top: 20px;
 }
 
 .a2image{
-background-image: url(hitna.jpg);
+background-image: url(articles/hitna.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -288,7 +288,7 @@ position: relative;
 }
 
 .a2comments-number{
-	background-image: url(comments-number.png);
+	background-image: url(banners/comments-number.png);
 height: 42px;
 width: 42px;
 position: absolute;
@@ -334,7 +334,7 @@ top: 20px;
 }
 
 .a3image{
-background-image: url(policajac.jpg);
+background-image: url(articles/policajac.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -343,7 +343,7 @@ position: relative;
 }
 
 .a3comments-number{
-	background-image: url(comments-number.png);
+	background-image: url(banners/comments-number.png);
 height: 42px;
 width: 42px;
 position: absolute;
@@ -547,7 +547,7 @@ float: left;
 }
 
 .event1-image{
-background-image: url(sprovod-1.jpg);
+background-image: url(articles/sprovod-1.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -581,7 +581,7 @@ box-sizing: border-box;
 }
 
 .event2-image{
-background-image: url(e2.jpg);
+background-image: url(articles/e2.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -599,7 +599,7 @@ box-sizing: border-box;
 }
 
 .event3-image{
-background-image: url(prevencija.jpg);
+background-image: url(articles/prevencija.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -619,7 +619,7 @@ box-sizing: border-box;
 }
 
 .event4-image{
-background-image: url(crni.jpg);
+background-image: url(articles/crni.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -691,7 +691,7 @@ float: left;
 }
 
 .event5-image{
-background-image: url(e5.jpg);
+background-image: url(articles/e5.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -713,7 +713,7 @@ box-sizing: border-box;
 }
 
 .event6-image{
-background-image: url(e6.jpg);
+background-image: url(articles/e6.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -735,7 +735,7 @@ box-sizing: border-box;
 }
 
 .event7-image{
-background-image: url(e7.jpg);
+background-image: url(articles/e7.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -757,7 +757,7 @@ box-sizing: border-box;
 }
 
 .event8-image{
-background-image: url(e8.jpg);
+background-image: url(articles/e8.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -799,7 +799,7 @@ display: block;
 }
 
 .event9-image{
-background-image: url(e9.jpg);
+background-image: url(articles/e9.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -819,7 +819,7 @@ display: block;
 }
 
 .event10-image{
-background-image: url(e10.jpg);
+background-image: url(articles/e10.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -839,7 +839,7 @@ display: block;
 }
 
 .event11-image{
-background-image: url(e11.jpg);
+background-image: url(articles/e11.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -859,7 +859,7 @@ display: block;
 }
 
 .event12-image{
-background-image: url(e12.jpg);
+background-image: url(articles/e12.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -1133,7 +1133,7 @@ overflow: hidden;
 box-shadow: none;
 text-indent: -999999px;
 margin-right: 10px;
-background: url(lupa.png) no-repeat center center;
+background: url(banners/lupa.png) no-repeat center center;
 border: 0;
 width: 16px;
 height: 32px;
@@ -1163,3 +1163,76 @@ display: inline-block;
 .amenu{
 color: #ffffff;
 }
+
+/* GALERIJA */
+
+.red{
+width: 970px;
+margin: 0px auto;
+padding: 17.5px 0 17.5px 0;
+height: 250px;
+}
+
+.gal1{
+width: 33%;
+height: 200px;
+float: left;
+padding: 0 0 0 17.5px;
+margin-bottom: 17.5px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+
+}
+
+.gal2{
+width: 33%;
+height: 200px;
+float: left;
+padding: 0 0 0 17.5px;
+margin-bottom: 17.5px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+
+
+}
+
+.gal3{
+width: 33%;
+height: 200px;
+float: left;
+padding: 0 0 0 17.5px;
+margin-bottom: 17.5px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+
+
+}
+
+.galslika{
+height: 200px;
+width: 320px;
+position: relative;
+
+}
+
+.galtext{
+	background-color: #ff6c00;
+	position: relative;
+	height: 30px;
+    
+    margin-top: -52px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
